@@ -22,3 +22,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omercikan&show_icons=true&locale=en" alt="omercikan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omercikan&" alt="omercikan" /></p>
+
+
+
+
+
+
+
+
+
+
+
+![snake gif](https://github.com/omercikan/omercikan/blob/output/github-contribution-grid-snake.gif)
