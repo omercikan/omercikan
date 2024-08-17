@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ömer Çıkan</h1>
-<h3 align="center">Yazılım Geliştiricisi.</h3>
+🔭 Şu anda bu proje üzerinde çalışıyorum: https://github.com/omercikan/serrena-ecommerce<br>🌱 Şu anda öğreniyorum: JavaScript Framework<br>📫 Bana bu mail adresi üzerinden ulaşabilirsiniz: omercikan36@gmail.com<br>👨‍💻 Tüm projelerim şu adreste mevcuttur: https://github.com/omercikan<br><br>  
 
-- 🔭 Şu anda bu proje üzerinde çalışıyorum [Serrena E-Commerce](https://github.com/omercikan/serrena-ecommerce)
 
-- 🌱 Şu anda öğreniyorum **JavaScript Framework**
+# 💻 Tech Stack:
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omercikan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=omercikan&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omercikan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 Bana bu mail adresi üzerinden ulaşabilirsiniz: **omercikan36@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omercikan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/omercikann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omercikann" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"></a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"></a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"></a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omercikan&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omercikan&show_icons=true&locale=en&layout=compact" alt="omercikan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omercikan&show_icons=true&locale=en" alt="omercikan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omercikan&" alt="omercikan" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
