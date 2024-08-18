@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer</h1>
+<h1 align="center">Hi 👋, I'm Ömer Çıkan</h1>
 🔭 Şu anda bu proje üzerinde çalışıyorum: https://github.com/omercikan/serrena-ecommerce<br>📫 Bana bu mail adresi üzerinden ulaşabilirsiniz: <a href="mailto:omercikan37@gmail.com">omercikan37@gmail.com</a> <br> 👨‍💻 Tüm projelerim şu adreste mevcuttur: https://github.com/omercikan<br> 🌱 Şu anda öğreniyorum: JavaScript Framework
 
 
