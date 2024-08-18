@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-🔭 Şu anda bu proje üzerinde çalışıyorum: https://github.com/omercikan/serrena-ecommerce<br>🌱 Şu anda öğreniyorum: JavaScript Framework<br>📫 Bana bu mail adresi üzerinden ulaşabilirsiniz: omercikan36@gmail.com<br>👨‍💻 Tüm projelerim şu adreste mevcuttur: https://github.com/omercikan<br><br>  
+🔭 Şu anda bu proje üzerinde çalışıyorum: https://github.com/omercikan/serrena-ecommerce<br>📫 Bana bu mail adresi üzerinden ulaşabilirsiniz: <a href="mailto:omercikan37@gmail.com">omercikan37@gmail.com</a> <br> 👨‍💻 Tüm projelerim şu adreste mevcuttur: https://github.com/omercikan<br> 🌱 Şu anda öğreniyorum: JavaScript Framework
 
 
 # 💻 Teknoloji Yığını:
