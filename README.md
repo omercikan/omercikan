@@ -12,7 +12,7 @@
 ## 🏆 GitHub Kupaları
 ![](https://github-profile-trophy.vercel.app/?username=omercikan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Rastgele Söz
+### ✍️ Rastgele Geliştirici Sözü
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 En Çok Katkıda Bulunulan Repo
