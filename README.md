@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Ömer</h1>
+<h1 align="center">👋 Merhaba Ben Ömer</h1>
 📫 Bana bu mail adresi üzerinden ulaşabilirsiniz: <a href="mailto:omercikan36@gmail.com">omercikan36@gmail.com</a> <br> 👨‍💻 Tüm projelerim şu adreste mevcuttur: <a href="https://github.com/omercikan">Projeler</a>
 
 # 💻 Teknoloji Yığını:
