@@ -21,7 +21,7 @@
 
 # 📊 GitHub İstatistikleri:
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=omercikan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub İstatistikleri" style="width: 49%; margin-right: 0%; height: 200px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omercikan&theme=github_dark&hide_border=false" alt="GitHub Streak" style="width: 49%; height: 200px;" />
 </div>
