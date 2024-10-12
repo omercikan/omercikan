@@ -1,4 +1,4 @@
-![](https://l24.im/eEuody)
+![Banner](https://res.cloudinary.com/omercikan/image/upload/v1728666722/Blue_Geometric_Technology_Linkdln_Banner_q26ksq.png)
 
 <div align="center">
 
