@@ -30,7 +30,7 @@
 
 ---
 
-## 🏆 GitHub Kupaları
+## 🏆 GitHub Kupalarım
 ![](https://github-profile-trophy.vercel.app/?username=omercikan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 
-### 🔝 En Çok Katkıda Bulunulan Repo:
+### 🔝 En Çok Katkıda Bulunulan Repolar:
 ![](https://github-contributor-stats.vercel.app/api?username=omercikan&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 </div>
