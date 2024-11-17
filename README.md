@@ -45,7 +45,7 @@
 
 <hr/>
 
-<h3>🔝 En Çok Katkıda Bulunduğum Repo</h3>
+<h3>🔝 En Çok Katkıda Bulunduğum Repolar</h3>
 <img src="https://github-contributor-stats.vercel.app/api?username=omercikan&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="En Çok Katkıda Bulunduğum Repo" style="max-width: 100%; margin-top: 20px;">
 
 <br>
