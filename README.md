@@ -3,22 +3,44 @@
 
 <hr>
 <h1>👋 Merhaba, Ben Ömer!</h1>
-<p><i>"Meraklı ve tutkulu bir yazılım geliştiricisiyim. Asıl alanım <strong>frontend</strong>, ancak gelecekte <strong>full stack</strong> bir geliştirici olmayı hedefliyorum. Şu anda <strong>React</strong> öğreniyorum!"</i></p>
+<p><i>"Meraklı ve tutkulu bir yazılım geliştiricisiyim. Şu anda <strong>React</strong> üzerinde projeler geliştiriyorum ve <strong>Firebase</strong> ile backend servisini öğrenmeye başlıyorum. Teknolojilere olan ilgim ve sürekli öğrenme isteğimle her zaman kendimi geliştirmeye devam ediyorum."</i></p>
 
 <hr>
 
 <h2>💻 Kullandığım Teknolojiler</h2>
+<div>
+    <h3>🖥️ Frontend Teknolojileri</h3>
+    <p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
+        <img src="https://img.shields.io/badge/react%20redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=white" alt="React Redux">
+        <img src="https://img.shields.io/badge/react%20router-%234e8de0.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+        <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+    </p>
+
+<h3>🔧 Versiyon Kontrolü</h3>
 <p>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
+
+<h3>☁️ Hosting</h3>
+<p>
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+</p>
+
+<h3>📡 Öğrenmeyi Hedeflediğim ve Gelecek Teknolojileri</h3>
+<p>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
+</div>
 
 <br>
 <div style="margin-top: 40px;">
