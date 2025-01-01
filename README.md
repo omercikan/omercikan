@@ -3,7 +3,7 @@
 
 <hr>
 <h1>👋 Merhaba, Ben Ömer!</h1>
-<p><i>"Meraklı ve tutkulu bir yazılım geliştiricisiyim. Şu anda <strong>React</strong> üzerinde projeler geliştiriyorum ve <strong>Firebase</strong> ile backend servisini öğrenmeye başlıyorum. Teknolojilere olan ilgim ve sürekli öğrenme isteğimle her zaman kendimi geliştirmeye devam ediyorum."</i></p>
+<p><i>"Meraklı ve tutkulu bir yazılım geliştiricisiyim. Şu anda <strong>React</strong> üzerinde projeler geliştiriyor ve bu alandaki bilgilerimi daha da geliştiriyorum. Teknolojilere olan ilgim ve sürekli öğrenme isteğimle her zaman kendimi geliştirmeye devam ediyorum."</i></p>
 
 <hr>
 
@@ -36,10 +36,13 @@
     <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
 </p>
 
-<h3>📡 Öğrenmeyi Hedeflediğim ve Gelecek Teknolojileri</h3>
+<!--
+<h3>📡 Öğrenmeyi Hedeflediğim Teknolojileri</h3>
 <p>
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
 </p>
+-->
+
 </div>
 
 <br>
