@@ -75,5 +75,7 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=omercikan&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="En Çok Katkıda Bulunduğum Repo" style="max-width: 100%; margin-top: 20px;">
 
 <br>
-<img src="https://visitcount.itsvg.in/api?id=omercikan&icon=0&color=6" alt="Profil Ziyaret Sayısı" style="margin-top: 20px;">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omercikan&label=Profile%20Views&color=123524&labelColor=123524&style=flat-circle" alt="Profile Views" />
+</p>
 </div>
