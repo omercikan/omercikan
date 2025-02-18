@@ -24,26 +24,17 @@
         <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
     </p>
 
+<h3>🛠️ Backend & Diğer Teknolojiler</h3>
+<p>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
+
 <h3>🔧 Versiyon Kontrolü</h3>
 <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
-
-<h3>☁️ Hosting</h3>
-<p>
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-</p>
-
-<!--
-<h3>📡 Öğrenmeyi Hedeflediğim Teknolojileri</h3>
-<p>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-</p>
--->
-
 </div>
 
 <br>
