@@ -3,7 +3,7 @@
 
 <hr>
 <h1>👋 Merhaba, Ben Ömer!</h1>
-<p><i>"Meraklı ve tutkulu bir yazılım geliştiricisiyim. Şu anda <strong>React</strong> üzerinde projeler geliştiriyor ve bu alandaki bilgilerimi daha da geliştiriyorum. Teknolojilere olan ilgim ve sürekli öğrenme isteğimle her zaman kendimi geliştirmeye devam ediyorum."</i></p>
+<p><i>"Şu anda <strong>Frontend</strong> alanında projeler geliştiriyorum ve <strong>Backend</strong> alanında da yoğunlaşarak <strong>Fullstack</strong> Developer olmayı hedefliyorum."</i></p>
 
 <hr>
 
