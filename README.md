@@ -27,6 +27,7 @@
 <h3>🛠️ Backend & Diğer Teknolojiler</h3>
 <p>
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
 <h3>🔧 Versiyon Kontrolü</h3>
