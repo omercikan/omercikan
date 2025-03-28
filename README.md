@@ -22,6 +22,7 @@
         <img src="https://img.shields.io/badge/react%20redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=white" alt="React Redux">
         <img src="https://img.shields.io/badge/react%20router-%234e8de0.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
         <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+        <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
     </p>
 
 <h3>🛠️ Backend & Diğer Teknolojiler</h3>
