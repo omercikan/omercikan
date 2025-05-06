@@ -1,15 +1,14 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/dwyvwkzap/image/upload/v1731360299/Black_Yellow_Modern_Programmer_LinkedIn_Banner_2_sf5b0o.png" alt="Banner">
+    <img src="https://res.cloudinary.com/dwyvwkzap/image/upload/v1746551826/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner_x5vzbt.gif" alt="Banner">
 
 <hr>
-<h1>👋 Merhaba, Ben Ömer!</h1>
-<p><i>"Şu anda <strong>Frontend</strong> alanında projeler geliştiriyorum ve <strong>Backend</strong> alanında da yoğunlaşarak <strong>Fullstack</strong> Developer olmayı hedefliyorum."</i></p>
-
+<h1>Hi there! 👋 I'm Ömer!</h1>
+<i>"I'm a <strong>frontend developer</strong> transitioning into <strong>full-stack development</strong>—focused on building scalable applications with a structured approach to problem-solving."</i>
 <hr>
 
-<h2>💻 Kullandığım Teknolojiler</h2>
+<h2>🖥️ Technologies I Use</h2>
 <div>
-    <h3>🖥️ Frontend Teknolojileri</h3>
+    <h3>💻 Frontend Technologies</h3>
     <p>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -21,17 +20,17 @@
         <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
         <img src="https://img.shields.io/badge/react%20redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=white" alt="React Redux">
         <img src="https://img.shields.io/badge/react%20router-%234e8de0.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
-        <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
         <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
     </p>
 
-<h3>🛠️ Backend & Diğer Teknolojiler</h3>
+<h3>🛠️ Backend & Other Technologies</h3>
 <p>
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 
-<h3>🔧 Versiyon Kontrolü</h3>
+<h3>🔧 Version Control</h3>
 <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -41,31 +40,31 @@
 
 <br>
 <div style="margin-top: 40px;">
-    <h2>📊 GitHub İstatistikleri</h2>
+    <h2>📊 GitHub Statistics</h2>
     <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=omercikan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub İstatistikleri" style="max-width: 45%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=omercikan&theme=blue-green&hide_border=false" alt="GitHub Streak" style="max-width: 45%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=omercikan&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub İstatistikleri" style="max-width: 45%;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=omercikan&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 45%;">
     </div>
     <br>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercikan&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="En Çok Kullandığım Diller" style="max-width: 80%; margin-top: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercikan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="En Çok Kullandığım Diller" style="max-width: 80%; margin-top: 20px;">
     </div>
 </div>
 
 <hr/>
 
-<h3>✍️ Rastgele Geliştirici Sözü</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Rastgele Geliştirici Sözü" style="max-width: 100%; margin-top: 20px;">
+<h3>✍️ Random Developer Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Rastgele Geliştirici Sözü" style="max-width: 100%; margin-top: 20px;">
 
 <hr/>
 
-<h3>🏆 GitHub Kupalarım</h3>
+<h3>🏆 My GitHub Trophies</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=omercikan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Github Kupaları" style="max-width: 100%; margin-top: 20px;">
 
 <hr/>
 
-<h3>🔝 En Çok Katkıda Bulunduğum Repolar</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=omercikan&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="En Çok Katkıda Bulunduğum Repo" style="max-width: 100%; margin-top: 20px;">
+<h3>🔝 Repos I Contributed to Most</h3>
+<img src="https://github-contributor-stats.vercel.app/api?username=omercikan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="En Çok Katkıda Bulunduğum Repo" style="max-width: 100%; margin-top: 20px;">
 
 <br>
 <p align="center">
