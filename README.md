@@ -1,73 +1,80 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/dwyvwkzap/image/upload/v1746551826/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner_x5vzbt.gif" alt="Banner">
-
-<hr>
-<h1>Hi there! 👋 I'm Ömer!</h1>
-<i>"I'm a <strong>frontend developer</strong> transitioning into <strong>full-stack development</strong>—focused on building scalable applications with a structured approach to problem-solving."</i>
-<hr>
-
-<h2>🖥️ Technologies I Use</h2>
-<div>
-    <h3>💻 Frontend Technologies</h3>
-    <p>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
-        <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React">
-        <img src="https://img.shields.io/badge/react%20redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=white" alt="React Redux">
-        <img src="https://img.shields.io/badge/react%20router-%234e8de0.svg?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
-        <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-    </p>
-
-<h3>🛠️ Backend & Other Technologies</h3>
-<p>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</p>
-
-<h3>🔧 Version Control</h3>
-<p>
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-</p>
+  <img height="200" src="https://res.cloudinary.com/dwyvwkzap/image/upload/v1757439185/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner_1_qawxi1.png"  />
 </div>
 
-<br>
-<div style="margin-top: 40px;">
-    <h2>📊 GitHub Statistics</h2>
-    <div style="display: flex; justify-content: center; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=omercikan&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub İstatistikleri" style="max-width: 45%;">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=omercikan&theme=dark&hide_border=true" alt="GitHub Streak" style="max-width: 45%;">
-    </div>
-    <br>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omercikan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="En Çok Kullandığım Diller" style="max-width: 80%; margin-top: 20px;">
-    </div>
+<h1 align="center">Hi there! 👋 I'm Ömer Çıkan!</h1>
+
+<p align="center"><b>"I build scalable products with clarity and purpose. From frontend finesse to backend resilience, I craft solutions that make an impact."</b></p>
+
+---
+
+<h2 align="center">🔥 Tech Stack</h2>
+<div align="center">
+  <!-- Satır 1 -->
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
 </div>
 
-<hr/>
+<div align="center" style="margin-top:10px;">
+  <!-- Satır 2 -->
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo" />
+</div>
 
+---
+
+<p align="center">
+  <b>🔗 Connect with me:</b>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/omercikan/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" style="margin:0 8px;"/></a>
+  <a href="https://gitlab.com/omercikan/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="GitLab" style="margin:0 8px;"/></a>
+</p>
+
+---
+
+<h2 align="center">🎯 GitHub Statistics</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=omercikan&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+  
+  <div style="display:flex; justify-content:center; margin-top:10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omercikan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=omercikan&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true&no-frame=true" height="150" style="margin-left:10px;" alt="top repo" />
+  </div>
+
+  <div style="margin-top:20px;">
+    <img src="https://github-profile-trophy.vercel.app?username=omercikan&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
+  </div>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omercikan&radius=16&theme=react&area=true&order=5&bg_color=red&hide_border=false&hide_title=false&custom_title=%F0%9F%A4%9D%20My%20Contribution%20Chart" height="300" alt="activity-graph graph" />
+</div>
+
+---
+
+<div align="center">
 <h3>✍️ Random Developer Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" alt="Rastgele Geliştirici Sözü" style="max-width: 100%; margin-top: 20px;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Rastgele Geliştirici Sözü" style="max-width: 100%; margin-top: 20px;">
+</div>
 
-<hr/>
-
-<h3>🏆 My GitHub Trophies</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=omercikan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Github Kupaları" style="max-width: 100%; margin-top: 20px;">
-
-<hr/>
-
-<h3>🔝 Repos I Contributed to Most</h3>
-<img src="https://github-contributor-stats.vercel.app/api?username=omercikan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="En Çok Katkıda Bulunduğum Repo" style="max-width: 100%; margin-top: 20px;">
-
-<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omercikan&label=Profile%20Views&color=123524&labelColor=123524&style=flat-circle" alt="Profile Views" />
 </p>
-</div>
