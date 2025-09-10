@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" src="https://res.cloudinary.com/dwyvwkzap/image/upload/v1757439185/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner_1_qawxi1.png"  />
+  <img height="200" src="https://res.cloudinary.com/dwyvwkzap/image/upload/v1757497571/Black_Liquid_Minimalist_Daily_Quotes_LinkedIn_Banner_11_ggjake.gif"  />
 </div>
 
-<h1 align="center">Hi there! 👋 I'm Ömer Çıkan!</h1>
+<h1 align="center">Hi there! 👋 I'm Ömer!</h1>
 
 <p align="center"><b>"I build scalable products with clarity and purpose. From frontend finesse to backend resilience, I craft solutions that make an impact."</b></p>
 
@@ -10,7 +10,7 @@
 
 <h2 align="center">🔥 Tech Stack</h2>
 <div align="center">
-  <!-- Satır 1 -->
+  <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
   <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
@@ -23,8 +23,8 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
 </div>
 
-<div align="center" style="margin-top:10px;">
-  <!-- Satır 2 -->
+<div align="center" style="margin-top:8px;">
+  <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
   <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
@@ -72,8 +72,10 @@
 
 <div align="center">
 <h3>✍️ Random Developer Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Rastgele Geliştirici Sözü" style="max-width: 100%; margin-top: 20px;">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Rastgele Geliştirici Sözü" style="max-width: 100%; margin-top: 20px;">
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omercikan&label=Profile%20Views&color=123524&labelColor=123524&style=flat-circle" alt="Profile Views" />
