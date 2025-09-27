@@ -30,10 +30,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
 </div>
 
 ---
